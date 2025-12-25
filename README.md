@@ -1,5 +1,5 @@
 
-⌚ MastersInTime.com High-Performance Watch Scraper
+###⌚ MastersInTime.com High-Performance Watch Scraper
 
 ![alt text](https://img.shields.io/badge/python-3.9%2B-blue)
 
@@ -62,6 +62,7 @@ Movement	Movement Brand, Part Number, Mechanism, Battery, Battery Life, Swiss Mo
 Strap/Band	Strap Width, Material, Lug Width, Band Color, Clasp Type, Stitching Color, Wrist Size Suitability
 Technical	Water Resistance, Dial Color, Hand Colors, Display Type, Swiss Made Status, Mount Type
 Media	High-Resolution Image Link
+
 🛠️ Tools & Technologies
 
 Requests & Sessions: For high-speed HTTP communication and connection reuse.
@@ -92,5 +93,3 @@ Batching: Collects results in a memory buffer and flushes to the CSV every 20 it
 
 [Mohamed Sallam]
 Web Scraping & Data Science Enthusiast
-
-Disclaimer: This project was created for educational and research purposes. Please ensure compliance with the target website's Terms of Service and robots.txt before use.
